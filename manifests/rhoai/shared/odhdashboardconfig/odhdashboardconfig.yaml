@@ -1,4 +1,5 @@
 # ODHDashboardConfig to enable the notebook-controller feature and add notebook sizes
+#This is a test comment
 apiVersion: opendatahub.io/v1alpha
 kind: OdhDashboardConfig
 metadata:
