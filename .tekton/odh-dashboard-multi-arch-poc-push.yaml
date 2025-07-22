@@ -23,7 +23,7 @@ spec:
   - name: revision
     value: '{{revision}}'
   - name: output-image
-    value: quay.io/ajaganat/odh-dashboard:konflux-multi-arch
+    value: quay.io/redhat-user-workloads/open-data-hub-tenant/odh-dashboard-multi-arch-poc:konflux-multi-arch
   - name: build-platforms
     value:
     - linux/x86_64
