@@ -1,8 +1,6 @@
 module github.com/opendatahub-io/gen-ai
 
-go 1.24.6
-
-toolchain go1.24.7
+go 1.25.0
 
 require (
 	github.com/getkin/kin-openapi v0.132.0
@@ -119,7 +117,7 @@ require (
 	golang.org/x/sys v0.38.0 // indirect
 	golang.org/x/term v0.37.0 // indirect
 	golang.org/x/text v0.31.0 // indirect
-	golang.org/x/time v0.12.0 // indirect
+	golang.org/x/time v0.15.0 // indirect
 	golang.org/x/tools v0.38.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.5.0 // indirect
 	google.golang.org/api v0.226.0 // indirect
