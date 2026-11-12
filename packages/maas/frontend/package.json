@@ -116,7 +116,7 @@
     "react-router": "^7.17.0",
     "react-router-dom": "^7.17.0",
     "showdown": "^2.1.0",
-    "zod": "^3.25.76"
+    "zod": "^4.0.0"
   },
   "optionalDependencies": {
     "@babel/preset-env": "^7.26.9",
