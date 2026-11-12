@@ -55,7 +55,7 @@
     "@perses-dev/heatmap-chart-plugin": "^0.4.1",
     "@perses-dev/histogram-chart-plugin": "^0.11.1",
     "@perses-dev/loki-plugin": "^0.5.1",
-    "@perses-dev/markdown-plugin": "^0.11.1",
+    "@perses-dev/markdown-plugin": "^0.13.0",
     "@perses-dev/pie-chart-plugin": "^0.13.1",
     "@perses-dev/plugin-system": "^0.53.1",
     "@perses-dev/prometheus-plugin": "^0.57.1",
