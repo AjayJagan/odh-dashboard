@@ -39,7 +39,7 @@
   "dependencies": {
     "@odh-dashboard/app-config": "*",
     "@odh-dashboard/plugin-core": "*",
-    "axios": "^1.16.0"
+    "axios": "^1.20.0"
   },
   "devDependencies": {
     "@odh-dashboard/eslint-config": "*"
