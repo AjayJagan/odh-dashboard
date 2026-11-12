@@ -42,7 +42,7 @@
     "playground:s3fileexplorer": "webpack serve --config ./src/app/components/common/S3FileExplorer/webpack.playground.ts"
   },
   "devDependencies": {
-    "@module-federation/enhanced": "^0.21.4",
+    "@module-federation/enhanced": "^0.24.0",
     "@module-federation/runtime": "^0.21.4",
     "@mui/icons-material": "^7.3.4",
     "@mui/material": "^7.3.4",
