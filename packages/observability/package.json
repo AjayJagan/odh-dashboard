@@ -59,7 +59,7 @@
     "@perses-dev/pie-chart-plugin": "^0.13.1",
     "@perses-dev/plugin-system": "^0.53.1",
     "@perses-dev/prometheus-plugin": "^0.57.1",
-    "@perses-dev/pyroscope-plugin": "^0.5.1",
+    "@perses-dev/pyroscope-plugin": "^0.7.0",
     "@perses-dev/scatter-chart-plugin": "^0.10.1",
     "@perses-dev/stat-chart-plugin": "^0.12.1",
     "@perses-dev/static-list-variable-plugin": "^0.8.1",
