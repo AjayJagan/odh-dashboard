@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@module-federation/enhanced": "^0.21.4",
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.15",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.6.0",
     "@swc/core": "^1.9.1",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.2",
